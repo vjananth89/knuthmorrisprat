@@ -10,7 +10,7 @@ public class Matching{
 	public static void main(String[] args) throws java.io.IOException
 	{
 		String match = null; 
-	//read contents from pattern.txt	
+	//read contents from pattern.txt -- written by Vijay	
 	ArrayList<String>pattern = new ArrayList<String>(); 
 	FileReader f1 = new FileReader( "/Users/ananth89/Desktop/text2.txt"); //pattern.txt goes here
 	Scanner sc = new Scanner( f1 ); 
