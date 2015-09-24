@@ -10,7 +10,6 @@ public class Regex {
 	//	String[] commandf = {
 		//		"/bin/sh -c",
 			//	" cd /Users/ananth89/Desktop; grep -f text1.txt text2.txt"
-			//
 	//	};
 
 		try {
